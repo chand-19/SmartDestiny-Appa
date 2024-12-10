@@ -42,7 +42,7 @@ class RecommenderSystem:
         recommendations = recommendations.sort_values(by=self.rating_col, ascending=False)
         return recommendations
 
-recommender = RecommenderSystem(data='first_dataset.xlsx',
+recommender = RecommenderSystem(data='namafilenya.xlsx',
                                 content_col='Metadata',
                                 place_col='Place',
                                 category_col='Category',
