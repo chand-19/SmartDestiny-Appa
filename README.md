@@ -1,3 +1,11 @@
+<br />
+<p align="center">
+  <a href="#">
+    <img src="logo/LogoBackg.png">
+  </a>
+</p>
+<br>
+
 # SmartDestiny-Apps
 
 GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning path. Machine Learning, Mobile development, Cloud Computing
