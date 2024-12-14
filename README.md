@@ -68,3 +68,9 @@ In our project is divided into four branches.
 4. Design
    - [Figma](https://www.figma.com/design/JcpgwadSWwRsUZPzTwaxt7/Smart-Destiny?node-id=0-1&p=f&t=Pwj03WfAJ7FWaNt4-0)
      <br>
+
+# Acknowledgments
+
+<img src="https://www.dicoding.com/blog/wp-content/uploads/2020/12/Cover.png" />
+
+<!-- reference https://github.com/alexandresanlim/Badges4-README.md-Profile -->
