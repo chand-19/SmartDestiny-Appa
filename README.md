@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="logo/LogoBackg.png">
+    <img src="Logo/LogoBackg.png">
   </a>
 </p>
 <br>
@@ -13,6 +13,15 @@ GitHub Repositories of Bangkit Academy 2024 Capstone Project from 3 learning pat
 # About The Project
 
 SmartDestiny is an innovative application tailored for tourists exploring Indonesia, providing seamless access to destination information, crowd predictions, and real-time translation to enhance the travel experience. Tourists frequently encounter challenges such as finding suitable travel spots, avoiding crowded destinations, and overcoming language barriers, which can diminish the quality of their journey. SmartDestiny addresses these issues by utilizing advanced technology to offer personalized destination recommendations, crowd density predictions, and optional translation support. With data-driven insights, SmartDestiny helps tourists make well-informed decisions and plan their visits to enjoy a smoother travel experience.
+
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
+  <img src="Logo/Start.png" width="15%">
+  <img src="Logo/survey.png" width="15%">
+  <img src="Logo/Home.png" width="15%">
+  <img src="Logo/Home.png" width="15%">
+  <img src="Logo/Home.png" width="15%">
+</div>
+
 
 # Team Members
 
